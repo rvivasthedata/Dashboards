@@ -9,6 +9,8 @@ Comparto dos proyectos de dashboards realizados en Power BI.
   - [Dashboard 1: ElectroMas](ElectroMas.pdf)
   - [Dashboard 2: NexoPlanet](NexoPlanet.pdf)
 
+## En el desarrollo se incluye: 
+
 - Análisis de Fórmulas y Medidas DAX
     - Las métricas y los gráficos presentados no son simples datos brutos, sino que son el resultado de la aplicación de medidas y fórmulas DAX que permiten un análisis más profundo.
 
