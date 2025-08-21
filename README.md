@@ -1,8 +1,8 @@
 # Dashboards
-# Catalogo Dashboards
+## Catalogo Dashboards
 
-Compartodos proyectos de dashboards realizados en Power BI.
-
-+[Dashboard 1](ElectroMas.pdf)
-+[Dashboard 2](NexoPlanet.pdf)
+Comparto dos proyectos de dashboards realizados en Power BI.
+- : file_folder:__Dash__:
+  +[Dashboard 1](ElectroMas.pdf)
+  +[Dashboard 2](NexoPlanet.pdf)
 
